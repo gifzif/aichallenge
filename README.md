@@ -7,7 +7,7 @@ llm model
 
 klue/bert-base
 ----------
-model about[klue/bert-base_about]
+model [about][klue/bert-base_about]
 
 model start code
 <pre><code>from transformers import AutoModel, AutoTokenizer
