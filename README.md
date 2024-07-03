@@ -7,7 +7,7 @@ llm model
 
 klue/bert-base
 ----------
-model [about][klue/bert-base_about]
+model [about](https://huggingface.co/klue/bert-base#preprocessing, "klue/bert-base link")
 
 model start code
 <pre><code>from transformers import AutoModel, AutoTokenizer
@@ -16,4 +16,3 @@ model = AutoModel.from_pretrained("klue/bert-base")
 tokenizer = AutoTokenizer.from_pretrained("klue/bert-base")
 </code></pre>
 
-[klue/bert-base_about] : https://huggingface.co/klue/bert-base#preprocessing
